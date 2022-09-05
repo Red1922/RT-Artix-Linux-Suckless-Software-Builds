@@ -6,3 +6,6 @@ You can refer my IInd edition BSPWM configuration to get an idea of the colour s
 
 # DWM preview
 ![Preview](https://user-images.githubusercontent.com/77635620/185763843-87c4496d-251e-41b5-b8dc-920787c6d97e.png)
+
+# SLSTATUS
+[Here](https://github.com/Red1922/slstatus)
